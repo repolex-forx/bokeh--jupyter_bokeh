@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/bokeh/jupyter_bokeh/commit/475f4e96f9ea4ce46b10c35119cfdd1cbeb523ab",
       "git:hexsha": "475f4e96f9ea4ce46b10c35119cfdd1cbeb523ab",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T03:28:17.041366+00:00"
     },
     {
       "@id": "https://repolex.ai/r/bokeh/jupyter_bokeh/commit/7c1cb12aeced5782e938a41f2d4f1b6cbed973bb",
